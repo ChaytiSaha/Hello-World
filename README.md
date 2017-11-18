@@ -1,2 +1,3 @@
 # Hello-World
-Learning to creat a repository for first time
+Hi Guys,
+I am a beginner here. i am just learing to use it . In future i hope to work here thoroughly...
